@@ -1,0 +1,1 @@
+gi init--powers your folder to be managed by git
